@@ -10,7 +10,7 @@
     "xml-beautifier": "0.x.x",
     "xtemplate": "4.x.x",
     "xtpl": "3.x.x",
-    "lodash": "4.x.x"
+    "lodash": ">=4.17.11"
   },
   "scripts": {
     "build": "webpack",
